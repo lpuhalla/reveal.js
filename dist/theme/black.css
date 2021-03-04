@@ -11,10 +11,10 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --background-color: #191919;
+  --background-color: #ffeeaa;
   --main-font: Source Sans Pro, Helvetica, sans-serif;
   --main-font-size: 42px;
-  --main-color: #fff;
+  --main-color: #ff3737;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
   --heading-font: Source Sans Pro, Helvetica, sans-serif;
