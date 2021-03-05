@@ -33,25 +33,25 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --link-color: #42affa;
   --link-color-hover: #8dcffc;
   --selection-background-color: #bee4fd;
-  --selection-color: #fff; }
+  --selection-color: #ff3737; }
 
 .reveal-viewport {
-  background: #191919;
-  background-color: #191919; }
+  background: #ffeeaa;
+  background-color: #ffeeaa; }
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 42px;
   font-weight: normal;
-  color: #fff; }
+  color: #ff3737; }
 
 .reveal ::selection {
-  color: #fff;
+  color: #ff3737;
   background: #bee4fd;
   text-shadow: none; }
 
 .reveal ::-moz-selection {
-  color: #fff;
+  color: #ff3737;
   background: #bee4fd;
   text-shadow: none; }
 
