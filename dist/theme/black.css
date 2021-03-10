@@ -12,7 +12,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 :root {
   --background-color: #ffeeaa;
-  --main-font: Candara, Helvetica, sans-serif;
+  --main-font: Optima, Helvetica, sans-serif;
   --main-font-size: 42px;
   --main-color: #ff3737;
   --block-margin: 20px;
